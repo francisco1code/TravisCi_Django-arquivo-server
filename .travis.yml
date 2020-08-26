@@ -1,7 +1,5 @@
 language: python3
 python:
   - 3.8.2
-install:
-  - make install
 script:
   - make test
